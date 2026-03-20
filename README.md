@@ -3,7 +3,7 @@
 A complete end-to-end machine learning system that predicts telecom customer churn 30 days in advance, enabling proactive retention campaigns.
 
 **[Live Demo](https://customer-churn-prediction-telecom.streamlit.app)** | **[Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)**
-
+> Note: App may take 30 seconds to wake up if inactive. Click "Yes, get this app back up!" if prompted.
 ---
 
 ## Dashboard Screenshots
