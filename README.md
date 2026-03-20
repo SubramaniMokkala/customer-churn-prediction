@@ -5,6 +5,21 @@ A complete end-to-end machine learning system that predicts telecom customer chu
 **[Live Demo](https://customer-churn-prediction-telecom.streamlit.app)** | **[Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)**
 
 ---
+## Dashboard Screenshots
+
+### Risk Assessment
+![Dashboard Overview](assets/screenshots/dashboard_overview.png)
+
+### High Risk Customer Example
+*Tenure: 2 months | Monthly Charges: $90 | Month-to-month contract*
+![High Risk Example](assets/screenshots/high_risk.png)
+
+### Low Risk Customer Example  
+*Tenure: 60 months | Monthly Charges: $30 | Two-year contract*
+![Low Risk Example](assets/screenshots/low_risk.png)
+
+### Model Analytics
+![Analytics Section](assets/screenshots/analytics.png)
 
 ## Business Problem
 
